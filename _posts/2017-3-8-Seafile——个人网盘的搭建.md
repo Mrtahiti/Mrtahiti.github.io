@@ -1,10 +1,12 @@
----
-style: ocean
----
+
 # 个人网盘——**Seafile**搭建
 
 **在阅读本文之前，请确保自己拥有VPS**
+
+
 本文以 **Ubuntu**为例
+
+
 ***
 ## 目录
 * **搭建需求**
@@ -12,7 +14,11 @@ style: ocean
 * **搭建教程**
 * **常见问题**
 * **参考网站**
+
+
 ***
+
+
 ## **搭建需求**(此处与 **百度云盘** 进行对比)
 
 ### 1.去哪存放文件（不重要但是占用本地空间）？
@@ -22,6 +28,8 @@ style: ocean
 ***
 ## **Seafile介绍**
 >Seafile 是一款开源的企业云盘，注重可靠性和性能。支持 Windows, Mac, Linux, iOS, Android 平台。支持文件同步或者直接挂载到本地访问。
+
+
 ### 个人使用体验：
 #### 1.空间**⛤⛤⛤⛤**
 这也可以说是一个缺点吧，取决于你的VPS空间的大小。我使用的是DO的20GB的VPS，所以不能存放太多的文件。一次性的文件记得删除就好，对于实际影响不是很大。~~如果你小姐姐太多，那还是买个移动硬盘吧。~~
@@ -49,6 +57,8 @@ chmod +x install_seafile.sh && ./install_seafile.sh
 ### 2.**VPS端设置**
 
 **由于我的VPS已经安装了Seafile，不能进行实际操作**
+
+
 以下图片来自[小Z博客](https://www.xiaoz.me/archives/8480)
 
 #### 1.复制上述代码（Putty**右击粘贴**）
@@ -104,5 +114,5 @@ IOS端与Win端可以自行下载客户端，不再赘述。
 ***
 ## 参考网站：
 * [小Z博客-CentOS 7 一键安装 Seafile 搭建私有云存储](https://www.xiaoz.me/archives/8480)
-* [少数派-安全、可靠、快速的“私人云盘” | Seafile 介绍与搭建](https://sspai.com/post/42678)
+* [少数派-安全、可靠、快速的“私人云盘”](https://sspai.com/post/42678)
 * [Seafile官网](https://www.seafile.com/home/)
