@@ -7,7 +7,7 @@ author:     TH
 header-img: img/post-bg-seafile.jpg
 catalog: true
 tags:
-    - 开发技巧
+    - VPS
 ---
 # 个人网盘——**Seafile**搭建
 
