@@ -1,4 +1,14 @@
-
+---
+layout:     post
+title:      Seafile简介
+subtitle:   Seafile——个人网盘的搭建
+date:       2018-03-08
+author:     TH
+header-img: img/post-bg-BJJ.jpg
+catalog: true
+tags:
+    - 开发技巧
+---
 # 个人网盘——**Seafile**搭建
 
 **在阅读本文之前，请确保自己拥有VPS**
