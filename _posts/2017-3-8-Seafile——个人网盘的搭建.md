@@ -74,37 +74,38 @@ chmod +x install_seafile.sh && ./install_seafile.sh
 
 #### 2.选择1
 
-![](https://cdn.xiaoz.me/wp-content/uploads/2017/06/snipaste_20170612_181353.png)
+![](http://ww1.sinaimg.cn/large/d8b30b42ly1fp6tr7ibihj20h50393yf.jpg)
 
 #### 3.按下回车
 
-![](https://cdn.xiaoz.me/wp-content/uploads/2017/06/snipaste_20170612_181734.png)
+![](http://ww1.sinaimg.cn/large/d8b30b42ly1fp6tr7ifngj20i207hjrh.jpg)
 
 #### 4.起个名字，字母数字都可以
 
-![](https://cdn.xiaoz.me/wp-content/uploads/2017/06/snipaste_20170612_181839.png)
+![](http://ww1.sinaimg.cn/large/d8b30b42ly1fp6tr7il7yj20ij05bwek.jpg)
 
 #### 5.填入自己的VPS IP
 
-![](https://cdn.xiaoz.me/wp-content/uploads/2017/06/snipaste_20170612_182135.png)
+![](http://ww1.sinaimg.cn/large/d8b30b42ly1fp6tr7icqzj20ik04wmxb.jpg)
 
 #### 6.小白可以一路回车(**默认设置**就好)
 
-![](https://cdn.xiaoz.me/wp-content/uploads/2017/06/snipaste_20170612_182741.png)
+![](http://ww1.sinaimg.cn/large/d8b30b42ly1fp6tr7jxlpj20i60gpq3e.jpg)
+
 
 #### 7.设置管理员
 
-![](https://cdn.xiaoz.me/wp-content/uploads/2017/06/snipaste_20170612_183030.png)
+![](http://ww1.sinaimg.cn/large/d8b30b42ly1fp6tr7kcf8j20ld060wem.jpg)
 
 #### 8.VPS端设置完成
 
-![](https://cdn.xiaoz.me/wp-content/uploads/2017/06/snipaste_20170612_183258.png)
+![](http://ww1.sinaimg.cn/large/d8b30b42ly1fp6tr7o6lmj20dx04dmx4.jpg)
 
 ### 3.**网页端设置**
 #### 1.打开 http://IP:8000
 **将IP替换为自己刚才填入的IP**
 #### 2.填入管理员邮箱和密码
-![](https://cdn.xiaoz.me/wp-content/uploads/2017/06/snipaste_20170612_183456.png)
+![](http://ww1.sinaimg.cn/large/d8b30b42ly1fp6tr7ogtoj20mb0ddjrx.jpg)
 #### 3.界面介绍
 
 ![](http://ww1.sinaimg.cn/large/d8b30b42gy1fp5e0zso8oj21hc0qbgo4.jpg)
