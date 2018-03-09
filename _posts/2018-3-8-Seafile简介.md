@@ -4,7 +4,7 @@ title:      Seafile简介
 subtitle:   Seafile——个人网盘的搭建
 date:       2018-03-08
 author:     TH
-header-img: img/post-bg-BJJ.jpg
+header-img: img/post-bg-seafile.jpg
 catalog: true
 tags:
     - 开发技巧
