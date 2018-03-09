@@ -25,7 +25,11 @@
 容易被和谐、上传速度慢
 ### 2.如何分享本地文件(此处指 大体积文件)？
 臭名昭著的限速、链接失效问题
+
+
 ***
+
+
 ## **Seafile介绍**
 >Seafile 是一款开源的企业云盘，注重可靠性和性能。支持 Windows, Mac, Linux, iOS, Android 平台。支持文件同步或者直接挂载到本地访问。
 
@@ -41,7 +45,11 @@ PS:视频文件支持在线预览（格式有限），不会压缩质量
 使用用校园网的**IPV6**，可以达到10 MB/S
 
 #### 综合来看，评分可以**⛤⛤⛤⛤**⛤
+
+
 ***
+
+
 ## **搭建教程**
 
 为了不折腾，此处推荐**一键安装脚本**
@@ -105,6 +113,8 @@ chmod +x install_seafile.sh && ./install_seafile.sh
 ![](http://ww1.sinaimg.cn/large/d8b30b42gy1fp5e1d0qvpj21hc0go768.jpg)
 ### 至此，Seafile就算设置好了。
 IOS端与Win端可以自行下载客户端，不再赘述。
+
+
 ***
 ## 常见问题
 ### 1.Ubuntu密码输入键入不上？
@@ -112,6 +122,8 @@ IOS端与Win端可以自行下载客户端，不再赘述。
 ### 2.Ubuntu安装Seafile很慢？
 在安装过程中，需要下载各种包。速度取决于VPS线路速度。
 ***
+
+
 ## 参考网站：
 * [小Z博客-CentOS 7 一键安装 Seafile 搭建私有云存储](https://www.xiaoz.me/archives/8480)
 * [少数派-安全、可靠、快速的“私人云盘”](https://sspai.com/post/42678)
