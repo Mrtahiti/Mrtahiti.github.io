@@ -7,7 +7,7 @@ description: "Every failure is leading towards success."
 keyword: "TH, TH Blog, 图家的博客, Tujia, 图家,VPS"
 url: "https://Mrtahiti.github.io"
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/Mrtahiti/Mrtahiti.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -22,7 +22,7 @@ RSS: false
 zhihu_username:     tu-jia-57-89
 github_username:    Mrtahiti
 facebook_username:  
-jianshu_username:   
+jianshu_username:   e19e36bb00f3
 #twitter_username:   qiubaiying
 
 
